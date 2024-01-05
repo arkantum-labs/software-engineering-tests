@@ -1,4 +1,4 @@
-# Arkantum Labs Recruitment Testing
+# Arkantum Labs Coding Challenges
 
 Welcome to Arkantum Labs 👋
 
